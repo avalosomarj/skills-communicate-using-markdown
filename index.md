@@ -21,3 +21,9 @@ var myVar = "Hello, world!";
 ```
 
 Added some code examples to index.md
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+
+Added some checkboxes examples to index.md
